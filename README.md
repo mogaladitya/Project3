@@ -1,3 +1,8 @@
+<img width="1916" height="1079" alt="Screenshot 2025-11-06 143854" src="https://github.com/user-attachments/assets/7def0d14-89fe-4767-ad5e-955f02199eda" />
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c649dc68-562f-4f4f-ba02-9f4f80c4eefa" />
+
+
 ## 🛒 Mock E-Commerce Cart App
 
 A simple **full-stack shopping cart application** built for **Vibe Commerce’s coding challenge**.
