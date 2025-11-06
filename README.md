@@ -96,7 +96,7 @@ root/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Project3.git
+git clone https://github.com/mogaladitya/Project3.git
 cd Project3
 ```
 
