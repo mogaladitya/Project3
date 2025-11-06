@@ -3,7 +3,7 @@
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c649dc68-562f-4f4f-ba02-9f4f80c4eefa" />
 
 
-## 🛒 Mock E-Commerce Cart App
+## 🛒 E-Commerce Cart App
 
 A simple **full-stack shopping cart application** built for **Vibe Commerce’s coding challenge**.
 It demonstrates **React + Redux** frontend, **Node/Express** backend, and **MongoDB** integration to manage products, cart items, and a mock checkout process.
